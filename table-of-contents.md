@@ -1,10 +1,7 @@
 # 3AP Admin FE Review
 
 
-## Directory And File Structure
-18 containers
-18 components, 7 components are actually containers
-1 shared component
+
 
 ## Redux State
 5 reducers, 1 super reducer 635 loc src/reducers/3apadmintime.js
