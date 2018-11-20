@@ -1,7 +1,10 @@
 ## Directory And File Structure
 
-* 18 containers
-* 18 components, 7 components are actually containers
+* 27 container components
+* 22 components
 * 1 shared component
+* 5 reducers
+* 4 sagas
+* 6 actions files
 
-Adding and maintaining existing components is becoming increasingly hard.
+*Longest file reducers/3apadmintime.js __634 LOC__*
