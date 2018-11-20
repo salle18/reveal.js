@@ -6,5 +6,4 @@
 * 5 reducers
 * 4 sagas
 * 6 actions files
-
-*Longest file reducers/3apadmintime.js __634 LOC__*
+* 31 scss file
